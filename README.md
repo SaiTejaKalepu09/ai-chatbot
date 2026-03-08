@@ -2,7 +2,8 @@
 
 > Clinical appointment booking via voice — supports **English**, **Hindi**, and **Tamil**
 
-![Architecture](architecture_diagram.png)
+<img width="3611" height="2351" alt="image" src="https://github.com/user-attachments/assets/60fe2444-3b7d-4543-99de-9c10e960b0c3" />
+
 
 ---
 
